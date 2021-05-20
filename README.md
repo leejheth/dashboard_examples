@@ -25,7 +25,7 @@ git clone https://github.com/leejheth/dashboard_examples.git
 
 
 ## References   
-* [faculty](https://dash-bootstrap-components.opensource.faculty.ai/) 
+* [faculty (bootstrap components)](https://dash-bootstrap-components.opensource.faculty.ai/) 
 * [Coding-with-Adam/Dash-by-Plotly](https://github.com/Coding-with-Adam/Dash-by-Plotly/blob/master/Other/Dash_Introduction/intro.py)   
 * [Plotly python library](https://plotly.com/python/)
 * [Charming Data - tutorial videos](https://www.youtube.com/c/CharmingData/featured)
