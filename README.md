@@ -29,5 +29,6 @@ git clone https://github.com/leejheth/dashboard_examples.git
 * [Coding-with-Adam/Dash-by-Plotly](https://github.com/Coding-with-Adam/Dash-by-Plotly/blob/master/Other/Dash_Introduction/intro.py)   
 * [Plotly python library](https://plotly.com/python/)
 * [Charming Data - tutorial videos](https://www.youtube.com/c/CharmingData/featured)
+* [Dash Core Components](https://dash.plotly.com/dash-core-components)
 
 
